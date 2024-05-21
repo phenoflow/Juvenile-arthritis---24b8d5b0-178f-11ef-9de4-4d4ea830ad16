@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/pauciarticular-juvenile-arthritis---primary.py
+inputModule3:
+  class: File
+  path: python/other-juvenile-arthritis---primary.py
+inputModule4:
+  class: File
+  path: python/juvenile-arthritis---primary.py
+inputModule5:
+  class: File
+  path: python/rheumatoid-juvenile-arthritis---primary.py
+inputModule6:
+  class: File
+  path: python/arthritis---primary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
